@@ -9,9 +9,7 @@ const nextConfig = {
       },
     ],
   },
-  // Suppress hydration warnings in development
   reactStrictMode: true,
 }
 
 module.exports = nextConfig
-
